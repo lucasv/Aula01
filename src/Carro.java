@@ -5,6 +5,7 @@ public class Carro {
 	
 	String nome;
 	
+	String teste;
 	
 	/*public void m1(){
 		Float a;
